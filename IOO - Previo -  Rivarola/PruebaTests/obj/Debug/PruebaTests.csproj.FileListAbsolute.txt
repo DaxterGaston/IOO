@@ -1,0 +1,49 @@
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\bin\Debug\PruebaTests.dll
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\bin\Debug\PruebaTests.pdb
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\bin\Debug\PruebaColisiones.dll
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\bin\Debug\PruebaColisiones.pdb
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.csprojResolveAssemblyReference.cache
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.dll
+C:\Users\equipo\Desktop\TPF\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.pdb
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\bin\Debug\PruebaTests.dll
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\bin\Debug\PruebaTests.pdb
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\bin\Debug\PruebaColisiones.dll
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\bin\Debug\PruebaColisiones.pdb
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.csprojAssemblyReference.cache
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.csproj.CopyComplete
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.dll
+C:\Users\daxte\Desktop\UADE\Progra 1\PruebaColisiones\PruebaTests\obj\Debug\PruebaTests.pdb
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Engine.dll
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\corazon.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\DisparoDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\DisparoIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\EnemigoEspectroDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\EnemigoEspectroIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\flechaRoja.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\ghostDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\ghostIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\MedusaHeadDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\MedusaHeadIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\Menu.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\Nivel1.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\Nivel2.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\PantallaControles.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\YouDied.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Imagenes\YouWin.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\PruebaTests.dll
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\PruebaTests.pdb
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Game.exe
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Game.pdb
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\Game.exe.config
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\obj\Debug\PruebaTests.csprojAssemblyReference.cache
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\obj\Debug\PruebaTests.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\obj\Debug\PruebaTests.csproj.CopyComplete
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\obj\Debug\PruebaTests.dll
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\PruebaTests\obj\Debug\PruebaTests.pdb

@@ -1,0 +1,133 @@
+C:\Users\daxte\Desktop\UADE\Orientacion a Objetos\POO\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\daxte\Desktop\UADE\Orientacion a Objetos\POO\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\UADE\Orientacion a Objetos\POO\Game\bin\Debug\Engine.dll
+C:\Users\daxte\Desktop\UADE\Orientacion a Objetos\POO\Game\bin\Debug\Game.exe
+C:\Users\daxte\Desktop\UADE\Orientacion a Objetos\POO\Game\bin\Debug\Game.pdb
+C:\Users\daxte\Desktop\UADE\Orientacion a Objetos\POO\Game\obj\Debug\Game.exe
+C:\Users\daxte\Desktop\UADE\Orientacion a Objetos\POO\Game\obj\Debug\Game.pdb
+C:\Users\win7\Desktop\POO\Game\obj\Debug\Game.exe
+C:\Users\win7\Desktop\POO\Game\obj\Debug\Game.pdb
+C:\Users\win7\Desktop\POO\Game\bin\Debug\Engine.dll
+C:\Users\win7\Desktop\POO\Game\bin\Debug\Game.exe
+C:\Users\win7\Desktop\POO\Game\bin\Debug\Game.pdb
+C:\Users\win7\Desktop\POO\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+E:\POO\Game\bin\Debug\Engine.dll
+E:\POO\Game\bin\Debug\Game.exe
+E:\POO\Game\bin\Debug\Game.pdb
+E:\POO\Game\obj\Debug\Game.csprojAssemblyReference.cache
+E:\POO\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\POO\Game\obj\Debug\Game.exe
+E:\POO\Game\obj\Debug\Game.pdb
+E:\POO\Game\bin\Debug\Imagenes\corazon.png
+E:\POO\Game\bin\Debug\Imagenes\flechaRoja.png
+E:\POO\Game\bin\Debug\Imagenes\ghostDer.png
+E:\POO\Game\bin\Debug\Imagenes\ghostIzq.png
+E:\POO\Game\bin\Debug\Imagenes\Menu.jpg
+E:\POO\Game\bin\Debug\Imagenes\PantallaControles.jpg
+E:\POO\Game\bin\Debug\Imagenes\YouDied.png
+E:\POO\Game\bin\Debug\Imagenes\YouWin.png
+E:\POO\Game\bin\Debug\Game.exe.config
+C:\Users\win7\Desktop\POO\Game\bin\Debug\Game.exe.config
+E:\POO\Game\bin\Debug\Imagenes\Nivel1.jpg
+E:\POO\Game\bin\Debug\Imagenes\Nivel2.jpg
+E:\POO\Game\bin\Debug\Imagenes\DisparoDer.png
+E:\POO\Game\bin\Debug\Imagenes\DisparoIzq.png
+E:\POO\Game\bin\Debug\Imagenes\EnemigoEspectroDer.png
+E:\POO\Game\bin\Debug\Imagenes\EnemigoEspectroIzq.png
+E:\POO\Game\bin\Debug\Imagenes\MedusaHeadDer.png
+E:\POO\Game\bin\Debug\Imagenes\MedusaHeadIzq.png
+D:\POO\Game\bin\Debug\Game.exe.config
+D:\POO\Game\obj\Debug\Game.exe
+D:\POO\Game\obj\Debug\Game.pdb
+D:\POO\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\POO\Game\bin\Debug\Engine.dll
+D:\POO\Game\bin\Debug\Imagenes\corazon.png
+D:\POO\Game\bin\Debug\Imagenes\DisparoDer.png
+D:\POO\Game\bin\Debug\Imagenes\DisparoIzq.png
+D:\POO\Game\bin\Debug\Imagenes\EnemigoEspectroDer.png
+D:\POO\Game\bin\Debug\Imagenes\EnemigoEspectroIzq.png
+D:\POO\Game\bin\Debug\Imagenes\flechaRoja.png
+D:\POO\Game\bin\Debug\Imagenes\ghostDer.png
+D:\POO\Game\bin\Debug\Imagenes\ghostIzq.png
+D:\POO\Game\bin\Debug\Imagenes\MedusaHeadDer.png
+D:\POO\Game\bin\Debug\Imagenes\MedusaHeadIzq.png
+D:\POO\Game\bin\Debug\Imagenes\Menu.jpg
+D:\POO\Game\bin\Debug\Imagenes\Nivel1.jpg
+D:\POO\Game\bin\Debug\Imagenes\Nivel2.jpg
+D:\POO\Game\bin\Debug\Imagenes\PantallaControles.jpg
+D:\POO\Game\bin\Debug\Imagenes\YouDied.png
+D:\POO\Game\bin\Debug\Imagenes\YouWin.png
+D:\POO\Game\bin\Debug\Game.exe
+D:\POO\Game\bin\Debug\Game.pdb
+E:\POO - Recuperatorio 1er parcial - Rivarola\Game\obj\Debug\Game.csprojAssemblyReference.cache
+E:\POO - Recuperatorio 1er parcial - Rivarola\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Engine.dll
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\corazon.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\DisparoDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\DisparoIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\EnemigoEspectroDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\EnemigoEspectroIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\flechaRoja.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\ghostDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\ghostIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\MedusaHeadDer.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\MedusaHeadIzq.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\Menu.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\Nivel1.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\Nivel2.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\PantallaControles.jpg
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\YouDied.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Imagenes\YouWin.png
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Game.exe.config
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Game.exe
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\bin\Debug\Game.pdb
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\obj\Debug\Game.exe
+C:\Users\daxte\Desktop\POO - Recuperatorio 1er parcial - Rivarola\Game\obj\Debug\Game.pdb
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\corazon.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\DisparoDer.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\DisparoIzq.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\EnemigoEspectroDer.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\EnemigoEspectroIzq.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\flechaRoja.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\ghostDer.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\ghostIzq.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\MedusaHeadDer.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\MedusaHeadIzq.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\Menu.jpg
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\Nivel1.jpg
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\Nivel2.jpg
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\PantallaControles.jpg
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\YouDied.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\YouWin.png
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Game.exe.config
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Game.exe
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Game.pdb
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\obj\Debug\Game.exe
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\obj\Debug\Game.pdb
+C:\Users\Gaston\Desktop\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Engine.dll
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Engine.dll
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\corazon.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\DisparoDer.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\DisparoIzq.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\EnemigoEspectroDer.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\EnemigoEspectroIzq.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\flechaRoja.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\ghostDer.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\ghostIzq.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\MedusaHeadDer.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\MedusaHeadIzq.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\Menu.jpg
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\Nivel1.jpg
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\Nivel2.jpg
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\PantallaControles.jpg
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\YouDied.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Imagenes\YouWin.png
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Game.exe.config
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Game.exe
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\bin\Debug\Game.pdb
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\obj\Debug\Game.exe
+D:\Gaston\UADE\Orientacion a Objetos\IOO - 2do parcial - Rivarola\Game\obj\Debug\Game.pdb
